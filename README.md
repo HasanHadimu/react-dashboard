@@ -55,5 +55,6 @@ export default tseslint.config({
 
 #Screenshot
 
-![image](https://github.com/user-attachments/assets/c23a3c6c-3d17-473d-8662-cc3af22ca4a0)
+![image](https://github.com/user-attachments/assets/0029830b-5856-45fe-8437-5e8cec572d0f)
+
 
